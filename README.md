@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Baoqi!
 - 🌱 I’m currently working as a Senior Data Scientist
 - 💞️ I’m looking to collaborate on some challenging issues to provide better insights
-- 📫 How to reach me ...
+- 📫 How to reach me: baoqizhang1214@gmail.com
 
 <!---
 zhangbaoqi269/zhangbaoqi269 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
